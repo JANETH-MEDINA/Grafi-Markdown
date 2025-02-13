@@ -1,6 +1,6 @@
 import cv2 as cv
 import numpy as np
-
+#cambios para commit
 imagen= np.ones((425,425), dtype=np.uint8)*250
 # for i in range(425):
 #     for j in range (425):
