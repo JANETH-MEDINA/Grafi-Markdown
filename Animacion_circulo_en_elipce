@@ -1,3 +1,4 @@
+'''phyton
 import numpy as np
 import cv2
 
@@ -37,3 +38,4 @@ for t in t_vals:
     cv2.waitKey(10)
 
 cv2.destroyAllWindows()
+'''
